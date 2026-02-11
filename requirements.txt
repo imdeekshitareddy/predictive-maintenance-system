@@ -6,4 +6,4 @@ imbalanced-learn
 joblib
 shap
 matplotlib
-seabo
+seab
